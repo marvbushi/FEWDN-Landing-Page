@@ -6,7 +6,7 @@
 * [Development Strategy](#development-strategy)
 * [Development Strategy Steps](#development-strategy-steps)
 * [Tools](#tools)
-* [Project Link](https://marvbushi.github.io/Landing-Page/index.html)
+* [Project Link](https://marvbushi.github.io/FEWDN-Landing-Page/index.html)
 
 
 ## Instructions
